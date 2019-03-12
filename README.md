@@ -1,5 +1,5 @@
 # HW5-Hogwarts
-Hogwarts Game
+Hogwarts Game:
 
 The head of the board of the Hogwarts school of Witchcraft and Wizardry want to be a bit more ‘hip with the kids’, so they have appointed 
 you as the head of IT and have asked you to model out a new console game, consisting of 2 classes:
