@@ -1,0 +1,7 @@
+D:\Visual Studio Community 2017\ZVezbi C# Dzole\Hogwarts Game\Hogwarts Game\bin\Debug\Hogwarts Game.exe.config
+D:\Visual Studio Community 2017\ZVezbi C# Dzole\Hogwarts Game\Hogwarts Game\bin\Debug\Hogwarts Game.exe
+D:\Visual Studio Community 2017\ZVezbi C# Dzole\Hogwarts Game\Hogwarts Game\bin\Debug\Hogwarts Game.pdb
+D:\Visual Studio Community 2017\ZVezbi C# Dzole\Hogwarts Game\Hogwarts Game\obj\Debug\Hogwarts Game.csprojAssemblyReference.cache
+D:\Visual Studio Community 2017\ZVezbi C# Dzole\Hogwarts Game\Hogwarts Game\obj\Debug\Hogwarts Game.csproj.CoreCompileInputs.cache
+D:\Visual Studio Community 2017\ZVezbi C# Dzole\Hogwarts Game\Hogwarts Game\obj\Debug\Hogwarts Game.exe
+D:\Visual Studio Community 2017\ZVezbi C# Dzole\Hogwarts Game\Hogwarts Game\obj\Debug\Hogwarts Game.pdb

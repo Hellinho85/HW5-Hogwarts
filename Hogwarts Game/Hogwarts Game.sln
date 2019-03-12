@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hogwarts Game", "Hogwarts Game\Hogwarts Game.csproj", "{DA9231EA-DF58-4181-A502-BED5BA586789}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA9231EA-DF58-4181-A502-BED5BA586789}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA9231EA-DF58-4181-A502-BED5BA586789}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA9231EA-DF58-4181-A502-BED5BA586789}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA9231EA-DF58-4181-A502-BED5BA586789}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B77C3915-A260-4D63-AB09-3A4B3F1C59C8}
+	EndGlobalSection
+EndGlobal
